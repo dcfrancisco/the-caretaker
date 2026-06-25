@@ -1,0 +1,39 @@
+.DS_Store
+.AppleDouble
+__MACOSX/
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# Build outputs
+dist/
+build/
+
+# LaTeX / manuscript build artifacts
+*.aux
+*.log
+*.out
+*.toc
+
+# Backup and temp files
+*.bak
+*.tmp
+Thumbs.db
+
+/notes
